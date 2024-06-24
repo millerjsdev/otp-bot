@@ -39,6 +39,5 @@ Miller OTP Bot Has Support for 60+ Country for Calls, \
 
 <br>
 
-**☑️ Telegram Vouches Channel**: https://t.me/millerotpvouches \
 **⚜️ Miller OTP Bot Official Site - Purchase**: https://otpbot.club \
 **📲 Miller OTP Bot**: https://t.me/millerotpbot
